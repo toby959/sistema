@@ -35,10 +35,10 @@
 <hr>
 <div aling="center">
 <a href="https://github.com/toby959/sistema/README.md" >
-<img aling="center" src="sistema/captura_color.png" whidt="250" style="max-width: 100%;">
+<img aling="center" src="captura_color.png" whidt="250" style="max-width: 100%;">
 
 <a href="https://github.com/toby959/sistema/README.md" >
-<img aling="center" src="sistema/captura_color2.png" whidt="250" style="max-width: 100%;">
+<img aling="center" src="captura_color2.png" whidt="250" style="max-width: 100%;">
 
 
 </div>
