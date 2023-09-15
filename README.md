@@ -36,7 +36,7 @@
 <div aling="center">
 <a href="https://github.com/toby959/sistema/README.md" >
 <img aling="center" src="captura_color.png" whidt="250" style="max-width: 100%;">
-
+<br><br><br><br><br>
 <a href="https://github.com/toby959/sistema/README.md" >
 <img aling="center" src="captura_color2.png" whidt="250" style="max-width: 100%;">
 
